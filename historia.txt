@@ -1,4 +1,5 @@
 Esta es una hostoria escrita
 en un archivo de texto plano
 
-Esta parte del archivo es nuevo
+Anita tiene 45 años y nacio en Internet
+sta parte del archivo es nuevo
