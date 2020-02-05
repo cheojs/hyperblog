@@ -7,6 +7,7 @@ Un super blog para el curso de [Git y Github de platzi](https://github.com/cheoj
 - Analisis y creacion de repositorios en Github
 - Proceso de utilizacion del sistema GIT
 - Realizar aportes en proyectos Open Source
+- Creado por el success team de la empresa
 
 El curso ha sido de vital importancia para el desarrollo del conocimiento en el ambito tecnico al gestionar proyectos colaborativos y en especial para facilitar el desarrollo de mi propio proyecto.
 
