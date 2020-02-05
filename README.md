@@ -9,6 +9,7 @@ Un super blog para el curso de [Git y Github de platzi](https://github.com/cheoj
 - Realizar aportes en proyectos Open Source
 - Creado por el success team de la empresa
 - Se analizan diferentes tipos de ejemplos
+- Se propomocina para todas las edades y generos
 
 El curso ha sido de vital importancia para el desarrollo del conocimiento en el ambito tecnico al gestionar proyectos colaborativos y en especial para facilitar el desarrollo de mi propio proyecto.
 
