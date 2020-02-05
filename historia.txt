@@ -4,4 +4,7 @@ en un archivo de texto plano
 
 HOLAAAAAAAA
 Anita tiene 45 años y nacio en Internet
+
+MASTER 1
+
 sta parte del archivo es nuevo
